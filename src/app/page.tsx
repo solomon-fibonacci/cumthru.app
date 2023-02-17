@@ -9,7 +9,9 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          <a href="https://forms.gle/vHX7mYBQjuo5vprU8">Join the community&nbsp;</a>
+          <a href="https://forms.gle/vHX7mYBQjuo5vprU8" target="_blank">
+            Join the community&nbsp;
+          </a>
         </p>
       </div>
       <div
@@ -31,7 +33,7 @@ export default function Home() {
           <div>Join us in painting the future of what dating would look like.</div>
           <p>
             Click&nbsp;
-            <a style={{ color: 'blue' }} href="https://forms.gle/vHX7mYBQjuo5vprU8">
+            <a style={{ color: 'blue' }} href="https://forms.gle/vHX7mYBQjuo5vprU8" target="_blank">
               this link
             </a>
             &nbsp;to help us build an app that works for us.
