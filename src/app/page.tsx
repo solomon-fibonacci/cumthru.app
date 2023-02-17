@@ -11,6 +11,17 @@ export default function Home() {
         <p>Join the community&nbsp;</p>
         <code className={styles.code}>Cum thru!</code>
       </div>
+      <div className={inter.className} style={{ lineHeight: '2rem' }}>
+        <div>Help us paint the future of what dating would look like.</div>
+        <p>
+          Click&nbsp;
+          <a style={{ color: 'blue' }} href="#">
+            this link
+          </a>
+          &nbsp;to help us build an app that works for us.
+        </p>
+      </div>
+      <footer></footer>
     </main>
   )
 }
