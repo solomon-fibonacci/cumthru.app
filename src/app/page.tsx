@@ -12,7 +12,7 @@ export default function Home() {
         <code className={styles.code}>Cum thru!</code>
       </div>
       <div className={inter.className} style={{ lineHeight: '2rem' }}>
-        <div>Help us paint the future of what dating would look like.</div>
+        <div>Join us in painting the future of what dating would look like.</div>
         <p>
           Click&nbsp;
           <a style={{ color: 'blue' }} href="#">
