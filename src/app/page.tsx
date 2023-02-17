@@ -27,7 +27,13 @@ export default function Home() {
           }}
         >
           <code className={styles.code}>Cum thru!</code>
-          <Image src="/heart.png" alt="heart" height={300} width={300} />
+          <Image
+            src="/heart.png"
+            alt="heart"
+            height={300}
+            width={300}
+            style={{ borderRadius: '4px' }}
+          />
         </div>
         <div style={{ width: '300px' }}>
           <div>Join us in painting the future of what dating would look like.</div>
